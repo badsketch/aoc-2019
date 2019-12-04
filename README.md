@@ -1,0 +1,1 @@
+I struggle with Advent of Code 2019 problems while learning ruby and maybe some functional languages.
